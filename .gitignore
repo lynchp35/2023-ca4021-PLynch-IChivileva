@@ -1,0 +1,7 @@
+# Files 
+
+# Directories
+text_to_videos/models/*
+
+# File types within certain directories
+evaluation_models/*.ipynb
